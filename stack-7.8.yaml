@@ -76,6 +76,8 @@ extra-deps:
 - text-metrics-0.1.0
 - pid1-0.1.0.0
 - file-embed-0.0.10
+- tar-conduit-0.1.0
+# FIXME We'll need some newer deps for tar-conduit
 flags:
   time-locale-compat:
     old-locale: false
